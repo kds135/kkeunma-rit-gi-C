@@ -2,3 +2,4 @@ skkusosc
 carry
 yeast
 travel
+lost
